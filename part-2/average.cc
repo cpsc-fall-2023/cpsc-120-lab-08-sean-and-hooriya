@@ -1,7 +1,7 @@
 // Hooriya Muhammad
 // Hooriyamuh@csu.fullerton.edu
 // @Hooriya-Muh
-// Partners: @seanislamov
+// Partners: @seanislamov @9arish
 
 #include <iostream>
 #include <string>
